@@ -132,7 +132,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
 .touch_top ul .item:last-child{border-right: 1px solid #d8d8d8;}
 .touch_top ul .item-ad{width:50%;padding: 0 0 0 0;}
 .touch_top ul .item-phone{width:46%; padding: 0 0 0 4%; }
-.touch_top ul .item .media .media-left a i{font-size: 2em; color: #1fa6c8;}
+.touch_top ul .item .media .media-left a i{font-size: 2em; color: #ff7f00;}
 .media-body{text-align: left;}
 .media-body p{text-align: left;color:#232932;padding: 0; margin: 0;font:400 1.072em/0.8em "Open Sans", sans-serif;}
 .media-body p span{color:#9692a0;font-size: 1em; line-height: 1.7em;}
@@ -160,11 +160,11 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
    transition: all .5s ease;   
 }
 .main-menu-wrapper .nav-bg{
-  background: #0f253a;   
+  background: #0a6ed0;   
 }
 .main-menu-wrapper:before {
     content: '';
-    background: #0f253a;
+    background: #0a6ed0;
     width: 1190px;
     height: 100%;
     position: absolute;
@@ -179,7 +179,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
   width: 100%;
   z-index: 9999;
   /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,fafafa+19,e2e2e2+69,d7d7d7+100 */
-  background: #009bb3;
+  background: #0a6ed0;
   
 }
 .main-menu-wrapper.stricky-fixed .free-qoute-button {
@@ -206,8 +206,8 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
   color: #fff;
 }
 .ind-container {
-  max-width: 1170px;
-    width: 100%;
+  /*max-width: 1170px;*/
+  width: 100%;
   margin-right: auto;
   margin-left: auto;
   padding-left: 15px;
@@ -220,16 +220,16 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
  
 }
 .main-menu-wrapper .free-qoute-button {
-  background: #FBB12F;
+  background: #ff7f00;
   position: relative;
   -webkit-transition: all .3s ease;
   transition: all .3s ease;
 }
 .main-menu-wrapper .free-qoute-button:hover {
-  background: #1FB5C7;
+  background: #0a6ed0;
 }
 .main-menu-wrapper .free-qoute-button:hover:before {
-  background: #1FB5C7;
+  background: #0a6ed0;
 }
 .main-menu-wrapper .free-qoute-button:hover a {
   color: #fff;
@@ -242,7 +242,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
   left: -32px;
   top: 0;
   width: 80px;
-  background: #FBB12F;
+  background: #ff7f00;
   height: 100%; 
   -webkit-transition: all .3s ease;
    transition: all .3s ease;
@@ -261,6 +261,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
 }
 .nav-holder {
   position: relative;
+  text-align: center;
 }
 .nav-holder .nav-header {
   display: none;
@@ -286,7 +287,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
 }
 .nav-holder .nav-footer ul.nav > li:hover a,
 .nav-holder .nav-footer ul.nav > li.active a {
-  color: #fab90a;
+  color: #ff7f00;
   background-color: transparent;
 }
 .nav-holder .nav-footer ul.nav > li:last-child > a {
@@ -408,7 +409,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
 .thm-btn {
   border: none;
   outline: none;
-  background:transparent;
+  background:#0a6ed0;
   font-size: 14px;
   line-height: 28px;
   color: #fff;
@@ -425,7 +426,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
     border: 2px solid #fff;
 }
 .thm-btn:hover {
-  background: #1FB5C7;
+  background: #ff7f00;
   color: #fff;
 }
 .thm-btn:hover i {
@@ -495,17 +496,21 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
 }
 
 .thm-banner-wrapper .caption-h1 {
-  font-size: 50px;
-  line-height: 50px;
-  font-weight: 700;
-  text-transform: uppercase;
-  color: #fff;
+    font-size: 50px;
+    line-height: 50px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #333333;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #fff;
 }
 .thm-banner-wrapper .caption-p {
-  font-size: 20px;
-  font-style: italic;
-  color: #fff;
-  line-height: 28px;
+    font-size: 20px;
+    font-style: italic;
+    color: #fff;
+    line-height: 28px;
+    background: rgba(0,0,0,.3);
+    border-radius: 5px;
 }
 .thm-banner-wrapper .caption-divider span.divider {
   width: 1px;
@@ -4097,8 +4102,8 @@ blockquote footer a {
 .thm-banner-wrapper .thm-btn.inverse i {
   color: #fff;
 }
-.thm-banner-wrapper .brder {display: block;width: 100px;height: 4px;background: #E6AB0C;margin-left: auto;margin-right: auto;margin-top: 22px;}
-.thm-banner-wrapper .brder-left{display: block;width: 100px;height: 4px;background: #E6AB0C;margin-top: 22px; text-align: left; margin-left:0; }
+.thm-banner-wrapper .brder {display: block;width: 100px;height: 4px;background: #ff7f00;margin-left: auto;margin-right: auto;margin-top: 22px;}
+.thm-banner-wrapper .brder-left{display: block;width: 100px;height: 4px;background: #ff7f00;margin-top: 22px; text-align: left; margin-left:0; }
 
 
 /* ==============================

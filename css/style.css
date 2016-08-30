@@ -74,7 +74,7 @@ ul, li {
 a, .btn, button {text-decoration: none; outline: none; -webkit-transition: all 300ms linear 0s;  transition: all 300ms linear 0s;}
 a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {text-decoration: none;outline: none;}
 section.row, header.row, footer.row {position: relative;}
-body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overflow-x: hidden;letter-spacing: 0.2px;}
+body {font-family: "Avenir Next", sans-serif; font-weight: 100%; height:100%;overflow-x: hidden;letter-spacing: 0.2px;}
 .thm-container {max-width: 1170px; width: 100%;margin-left: auto;margin-right: auto;}
 .four_arrow_hover_box {display: block;position: absolute;top: 5px;left: 5px;right: 5px;bottom: 5px;opacity: 0; border: 7px solid rgba(3, 137, 158, 0.6);-webkit-transform: scaleX(0); -ms-transform: scaleX(0);  transform: scaleX(0);  -webkit-transform-origin: left;  -ms-transform-origin: left;
   transform-origin: left;  -webkit-transition: all 300ms linear 0s;  transition: all 300ms linear 0s;}
@@ -93,8 +93,8 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
 .accrodion.active .accrodion-title h4 {color: #fff;}
 .accrodion.active .accrodion-title:after {content: '-'; font-size: 40px; line-height: 38px; color: #fff;}
 .accrodion .accrodion-title {cursor: pointer; position: relative; padding-left: 30px; padding-right: 30px; }
-.accrodion .accrodion-title:after {content: '+'; font-family: 'Open Sans', sans-serif; font-weight: normal; color: #898989; font-size: 23px; position: absolute; top: 0; right: 20px; line-height: 46px;}
-.accrodion .accrodion-title h4 {color: #242424; font-family: 'Open Sans', sans-serif; text-transform: uppercase; font-weight: 600; font-size: 14px; line-height: 46px; letter-spacing: .04em; margin: 0;}
+.accrodion .accrodion-title:after {content: '+'; font-family: 'Avenir Next', sans-serif; font-weight: normal; color: #898989; font-size: 23px; position: absolute; top: 0; right: 20px; line-height: 46px;}
+.accrodion .accrodion-title h4 {color: #242424; font-family: 'Avenir Next', sans-serif; text-transform: uppercase; font-weight: 600; font-size: 14px; line-height: 46px; letter-spacing: .04em; margin: 0;}
 .accrodion .accrodion-content {padding-left: 30px; padding-top: 19px; padding-bottom: 30px; }
 .accrodion .accrodion-content h3,
 .accrodion .accrodion-content h4 {margin: 0;color: #242424;margin-bottom: 15px;}
@@ -117,10 +117,10 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
 /* ==============================
   3. header top styles
 ============================== */
-.wel-band{background: #093660; font: 300 1em/1em "Open Sans", sans-serif; color:#6e6e6e;}
+.wel-band{background: #093660; font: 300 1em/1em "Avenir Next", sans-serif; color:#6e6e6e;}
 .wel-band-bg {background: url("../images/header-top-band/head-top-band1.png") no-repeat center center;overflow: hidden;padding: 1.075em 0;}
-.wel-band-bg p{font: 400 1.1em/1em "Open Sans", sans-serif; margin: 0; padding: 0;}
-.top-w-text p{font: 400 1.1em/1em "Open Sans", sans-serif; margin: 0; padding: 0; color: #fff;}
+.wel-band-bg p{font: 400 1.1em/1em "Avenir Next", sans-serif; margin: 0; padding: 0;}
+.top-w-text p{font: 400 1.1em/1em "Avenir Next", sans-serif; margin: 0; padding: 0; color: #fff;}
 
 .wel-band .right{text-align: right;}
 .logo{text-align: left;}
@@ -134,13 +134,13 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
 .touch_top ul .item-phone{width:46%; padding: 0 0 0 4%; }
 .touch_top ul .item .media .media-left a i{font-size: 2em; color: #ff7f00;}
 .media-body{text-align: left;}
-.media-body p{text-align: left;color:#232932;padding: 0; margin: 0;font:400 1.072em/0.8em "Open Sans", sans-serif;}
+.media-body p{text-align: left;color:#232932;padding: 0; margin: 0;font:400 1.072em/0.8em "Avenir Next", sans-serif;}
 .media-body p span{color:#9692a0;font-size: 1em; line-height: 1.7em;}
 .media-body p span a{color:#9692a0; }
 .media-body p span a:hover{color: #0fa2d9;}
 .touch_top .nav{margin: 0;}
 .widget-search{float:right;padding: 8px 0;}
-.widget .search-form .form-control {height: 37px; border-radius: 0;border: none;font: 1em/1em "Open Sans", sans-serif;padding: 0 15px;
+.widget .search-form .form-control {height: 37px; border-radius: 0;border: none;font: 1em/1em "Avenir Next", sans-serif;padding: 0 15px;
 -webkit-box-shadow: none; box-shadow: none;color: #c0c0c0; z-index: 0;}
 .widget-inner{border:1px solid #ddd;}
 .widget .search-form .form-control + .input-group-addon {padding: 0; border: 0; border-radius: 0; background-color: transparent;}
@@ -249,7 +249,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
 }
 
 .main-menu-wrapper .free-qoute-button a {
-  font: 700 1.8em/1.2em 'Open Sans Condensed', sans-serif;
+  font: 700 1.8em/1.2em 'Avenir Next Condensed', sans-serif;
   color: #010101;
   text-transform: uppercase;
   padding: 18px 30px 18px 28px;
@@ -302,7 +302,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
   border-right: 1px dashed #3f5262;
   -webkit-transition: all .3s ease;
   transition: all .3s ease;
-  font: 600 1.36em/1em 'Open Sans Condensed', sans-serif;
+  font: 600 1.36em/1em 'Avenir Next Condensed', sans-serif;
   letter-spacing: 0.4px;
 }
 
@@ -357,7 +357,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
 }
 .nav-holder .nav-footer ul.nav > li ul.submenu li a {
       color: #fff;
-    font: 600 1.0712em/1em 'Open Sans', sans-serif;
+    font: 600 1.0712em/1em 'Avenir Next', sans-serif;
     padding: 13px 25px 14px;
     border-bottom: 1px solid #3f5262;
     position: relative;
@@ -414,7 +414,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
   line-height: 28px;
   color: #fff;
   text-transform: uppercase;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Avenir Next", sans-serif;
   font-weight: 500;
   padding: 10px 0px;
   padding-left: 27px;
@@ -551,7 +551,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
 .thm-banner-wrapper .brder {display: block;width: 100px;height: 4px;background: #E6AB0C;margin-left: auto;margin-right: auto;margin-top: 22px;}
 
 /* ==============================
-  6. Welcome to industrial styles
+  6. Welcome to RSL Labs styles
 ============================== */
 
 .wel-ind-pad{
@@ -572,7 +572,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
 } 
 .wel-info p{
     margin: 0 0 1.2em; padding: 0; 
-    font: 400 1em/1.8em "Open Sans", sans-serif;
+    font: 400 1em/1.8em "Avenir Next", sans-serif;
     letter-spacing: 0.3px;
     color: #777777;
 }
@@ -588,7 +588,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
     width: 104px;
 }
 .wel-bot h2{ 
-    font: 400 1.5em/1.2em "Open Sans", sans-serif;
+    font: 400 1.5em/1.2em "Avenir Next", sans-serif;
     color: #009bb3;
     margin: 0; padding: 0;
 }
@@ -625,7 +625,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
     margin: 2em;
 }
 .wel-ind-r-txt p{
-   font: 400 1.5em/1.2em "Open Sans", sans-serif;
+   font: 400 1.5em/1.2em "Avenir Next", sans-serif;
     font-style: italic;
 }
 .wel-ind-r-img{
@@ -690,7 +690,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
 .service-info a h4{
     border-bottom: 2px solid #19a3b8;
     color: #242424;
-    font: 600 1.3em/1.5em "Open Sans", sans-serif;
+    font: 600 1.3em/1.5em "Avenir Next", sans-serif;
     text-transform: uppercase;
     padding: 0 0 0.5em;
     -webkit-transition: all 300ms linear 0s;
@@ -702,14 +702,14 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
 }
 .service-info p{
     color: #898989;
-    font: 400 1.1em/1.6em "Open Sans", sans-serif;
+    font: 400 1.1em/1.6em "Avenir Next", sans-serif;
     margin: 0;
     padding: 1em 0 0.5em;
 }
 .service-info h6 a{
     color: #0fa2d9;
     text-transform: uppercase;
-    font: 600 1em/1.6em "Open Sans", sans-serif;
+    font: 600 1em/1.6em "Avenir Next", sans-serif;
 }
 .service-info h6 a:hover{
     color: #8192a4;
@@ -813,17 +813,17 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
 }
 .service-content ul .item .media .media-body{
     text-align: left;
-    font: 1em/1em "Open Sans", sans-serif;
+    font: 1em/1em "Avenir Next", sans-serif;
     color: #898989;
     letter-spacing: 0.3px;
     padding: 0 17em 0 0;    
 }
 
 .service-content ul .item .media .media-body h4{
-   font:600 1.3em/1em "Open Sans", sans-serif; color: #fff; text-transform: uppercase;
+   font:600 1.3em/1em "Avenir Next", sans-serif; color: #fff; text-transform: uppercase;
 }
 .service-content ul .item .media .media-body p{
-   font: 1em/1.5em "Open Sans", sans-serif; color: #fff;   
+   font: 1em/1.5em "Avenir Next", sans-serif; color: #fff;   
 }
 
 .nau-head{ position: absolute; background: #ffa10d;width: 18em; bottom: 1em; text-align: left; font-family: "Raleway", sans-serif; padding:1em 0 0 2em; right:0;}
@@ -877,7 +877,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
 .our-pro-slider .pro-sliders .pro-web h4{
     color: #fff;
     text-transform: uppercase;
-    font: 600 1.3em/1em "Open Sans", sans-serif;
+    font: 600 1.3em/1em "Avenir Next", sans-serif;
     -webkit-transition: all 300ms linear 0s;
     transition: all 300ms linear 0s;
     margin: 0;
@@ -948,7 +948,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
     display: inline-block;
 }
 .testimonial-sec .testimonial-slider p{
-    font: 1.15em/2em "Open Sans", sans-serif; color: #fff;
+    font: 1.15em/2em "Avenir Next", sans-serif; color: #fff;
     padding: 0;
     margin: 2em;
 }
@@ -1029,13 +1029,13 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
     bottom: 0;   
 }
 .lat-news-outer .lat-img-box .latest-info-date h3{
-   font: 600 25px/21px "Open Sans", sans-serif;
+   font: 600 25px/21px "Avenir Next", sans-serif;
     letter-spacing: 0.3px;
     color: #fff;
     
 }
 .lat-news-outer .lat-img-box .latest-info-date h3 small{
-    font: 500 14px/21px "Open Sans", sans-serif;
+    font: 500 14px/21px "Avenir Next", sans-serif;
     letter-spacing: 0.3px;
     color: #fff;
     text-transform: uppercase;
@@ -1049,7 +1049,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
     padding: 0 2em;
 }
 .lat-news-outer .lat-new-cont h3{
-   font: 600 16px/26px "Open Sans", sans-serif;
+   font: 600 16px/26px "Avenir Next", sans-serif;
     letter-spacing: 0.3px;
     color: #000;
     margin-top: 0;
@@ -1059,7 +1059,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
 }
 .lat-news-outer .lat-new-cont p{
   border-bottom: 1px solid #e7e7e7; 
-    font: 400 1em/1.4em "Open Sans", sans-serif;
+    font: 400 1em/1.4em "Avenir Next", sans-serif;
     letter-spacing: 0.3px;
     color: #898989;  
    
@@ -1067,7 +1067,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
     margin-bottom: 13px;
 }
 .latest-meta a{
-    font: normal 1em/1em "Open Sans", sans-serif;
+    font: normal 1em/1em "Avenir Next", sans-serif;
     color: #c1c1c1;
     padding-right: 13px;
 }
@@ -1102,12 +1102,12 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
     bottom: 0;   
 }
 .latest .latest-image .latest-info-date h3{
-   font: 600 1.5em/1em "Open Sans", sans-serif;
+   font: 600 1.5em/1em "Avenir Next", sans-serif;
     letter-spacing: 0.3px;
     color: #fff; 
 }
 .latest .latest-image .latest-info-date h3 small{
-    font: 500 1em/1em "Open Sans", sans-serif;
+    font: 500 1em/1em "Avenir Next", sans-serif;
     letter-spacing: 0.3px;
     color: #fff;
     text-transform: uppercase;
@@ -1119,7 +1119,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
     
 }
 .latest .latest-news-text h4{
-   font: 600 16px/26px "Open Sans", sans-serif;
+   font: 600 16px/26px "Avenir Next", sans-serif;
     letter-spacing: 0.3px;
     color: #000;
     margin-top: 0;
@@ -1129,7 +1129,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
 }
 .latest .latest-news-text p{
   border-bottom: 1px solid #e7e7e7; 
-    font: 400 14px/26px "Open Sans", sans-serif;
+    font: 400 14px/26px "Avenir Next", sans-serif;
     letter-spacing: 0.3px;
     color: #898989;
     
@@ -1138,7 +1138,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
 }
 
 .latest .latest-image .latest-info-date h3 small{
-    font: 500 14px/21px "Open Sans", sans-serif;
+    font: 500 14px/21px "Avenir Next", sans-serif;
     letter-spacing: 0.3px;
     color: #fff;
     text-transform: uppercase;
@@ -1175,7 +1175,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
     padding: 1.5em 0;
 }
 .indurial-solution-text h2{
-   font: 600 2em/1em "Open Sans", sans-serif;
+   font: 600 2em/1em "Avenir Next", sans-serif;
     letter-spacing: 0.4px;
     color: #fff;
     font-style: italic;
@@ -1194,7 +1194,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
     background: #19242a;
     color: #fff;
     display: inline-block;
-    font: 500 1em/1em "Open Sans", sans-serif;
+    font: 500 1em/1em "Avenir Next", sans-serif;
     margin-top: 1px;
     padding: 0px 17px 0px 23px;
     text-transform: uppercase;
@@ -1260,7 +1260,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
 }
 .widget-contact h4, .get-in-touch h4, .widget-links h4{
     
-  font: 600 18px/17px "Open Sans", sans-serif;
+  font: 600 18px/17px "Avenir Next", sans-serif;
     color: #fff;
     margin-top: 0px;
     text-transform: uppercase;
@@ -1300,7 +1300,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
     color: #627279;
     width: -webkit-calc(100% - 34px);
     width: calc(100% - 34px);
-    font: 400 1em/1.4em "Open Sans", sans-serif;
+    font: 400 1em/1.4em "Avenir Next", sans-serif;
     padding: 1.1em 0 0;
 }
 .widget.widget-contact ul li .fleft span{
@@ -1330,7 +1330,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
 }
 .footer-bottom .fo-txt p{
    color:#555759; 
-   font: 400 1em/1em "Open Sans", sans-serif; 
+   font: 400 1em/1em "Avenir Next", sans-serif; 
 }
 .footer-bottom .fo-txt p a{
    color:#1d8898; 
@@ -1529,7 +1529,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
 }
 .about-tab-box .tab-title-box ul li a {
   text-align: left;
-  font: 500 1.54em/1em "Open Sans", sans-serif;
+  font: 500 1.54em/1em "Avenir Next", sans-serif;
   display: block;
   font-weight: bold;
   color: #242424;
@@ -1562,7 +1562,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
 
 .about-tab-box .single-tab-content h3 {
   font-size: 20px;
-  font-family: 'Open Sans';
+  font-family: 'Avenir Next';
   color: #242424;
   line-height: 26px;
   font-weight: normal;
@@ -1571,7 +1571,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
 .about-tab-box .single-tab-content p {
   color: #8E8D8D;
   margin: 0 0 1em;
-  font: 400 1em/1.8em "Open Sans", sans-serif;
+  font: 400 1em/1.8em "Avenir Next", sans-serif;
 }
 .about-tab-box .single-tab-content ul li {
   color: #333E56;
@@ -1772,13 +1772,13 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
     margin: 5px 0 0;
 }
 .team .team-content h4 {
-  font: 400 1.15em/1em "Open Sans", sans-serif;
+  font: 400 1.15em/1em "Avenir Next", sans-serif;
   letter-spacing: 0.3px;
   color: #242424;
   margin: 0;
 }
 .team .team-content p {
-  font: 400 14px/22px "Open Sans", sans-serif;
+  font: 400 14px/22px "Avenir Next", sans-serif;
   letter-spacing: 0.3px;
   color: #898989;
   margin: 0;
@@ -1962,7 +1962,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
   }
 }
 .testimonial .media-body p {
-  font: 400 14px/26px "Open Sans", sans-serif;
+  font: 400 14px/26px "Avenir Next", sans-serif;
   letter-spacing: 0.3px;
   color: #898989;
   margin-bottom: 5px;
@@ -1982,7 +1982,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
   margin-right: 16px;
 }
 .testimonial .media-body a {
-  font: 300 14px/26px "Open Sans", sans-serif;
+  font: 300 14px/26px "Avenir Next", sans-serif;
   letter-spacing: 0.3px;
   color: #c89551;
   font-style: italic;
@@ -2027,7 +2027,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
 .service-tab-box p{
     margin: 0 0 1.2em;
     padding: 0;
-    font: 400 1em/1.8em "Open Sans", sans-serif;
+    font: 400 1em/1.8em "Avenir Next", sans-serif;
     letter-spacing: 0.3px;
     color: #777777;
 }
@@ -2035,7 +2035,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
     color: #242424;
     margin: 0 0 0.5em;
     padding: 0;
-    font: 400 1.4em/1.8em "Open Sans", sans-serif;
+    font: 400 1.4em/1.8em "Avenir Next", sans-serif;
     letter-spacing: 0.3px;
 }
 
@@ -2049,7 +2049,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
 }
 .service-tab-box ul.c-brochure li a{
     color: #fff;
-    font: 400 1.2em/1.2em "Open Sans", sans-serif;
+    font: 400 1.2em/1.2em "Avenir Next", sans-serif;
    
 }
 .service-tab-box ul.c-brochure li a span{
@@ -2310,7 +2310,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
   padding-left: 30px;
 }
 .single-sidebar-widget .popular-post .content a h4 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Avenir Next', sans-serif;
   color: #242424;
   text-transform: uppercase;
   font-size: 13px;
@@ -2431,7 +2431,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
   margin: 0;
 }
 .single-sidebar-widget ul.brochure-btns li a {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Avenir Next', sans-serif;
     color: #404040;
     text-transform: uppercase;
     font-weight: 600;
@@ -2470,7 +2470,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
     color: #898989;
     margin: 0 0 1.2em;
     padding: 0;
-    font: 400 1em/1.8em "Open Sans", sans-serif;
+    font: 400 1em/1.8em "Avenir Next", sans-serif;
     letter-spacing: 0.3px;
 }
 .single-service-page .image-caption-box .text-box h2, .single-post-page .image-caption-box .text-box h2 {
@@ -2518,7 +2518,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
   color: #898989;
     margin: 0 0 1.2em;
     padding: 0;
-    font: 400 1em/1.8em "Open Sans", sans-serif;
+    font: 400 1em/1.8em "Avenir Next", sans-serif;
     letter-spacing: 0.3px;
 }
 .single-service-page .image-caption-box .caption-box-img,
@@ -2552,13 +2552,13 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
     bottom: 0;
 }
 .core-projects h4{
-  font: 600 1.2em/1em "Open Sans", sans-serif;
+  font: 600 1.2em/1em "Avenir Next", sans-serif;
     color: #242424;
 }
 .core-projects p {
     margin: 0 0 1.2em;
     padding: 0;
-    font: 400 1em/1.8em "Open Sans", sans-serif;
+    font: 400 1em/1.8em "Avenir Next", sans-serif;
     letter-spacing: 0.3px;
     color: #777777;
 }
@@ -2620,7 +2620,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
   padding: 16px 0px 14px 0px;
 }
 .project-post-info .info-text h4 {
-  font: 600 14px/14px "Open Sans", sans-serif;
+  font: 600 14px/14px "Avenir Next", sans-serif;
   letter-spacing: 0.3px;
   color: #242424;
   margin: 0;
@@ -2632,7 +2632,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
   color: #009bb3;
 }
 .project-post-info .info-text p {
-  font: 400 14px/18px "Open Sans", sans-serif;
+  font: 400 14px/18px "Avenir Next", sans-serif;
   letter-spacing: 0.3px;
   color: #898989;
   margin: 0;
@@ -2666,7 +2666,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
     height: 45px;
     border-radius: 0;
     border: none;
-    font: 1em/1em "Open Sans", sans-serif;
+    font: 1em/1em "Avenir Next", sans-serif;
     padding: 0 30px;
     -webkit-box-shadow: none;
     box-shadow: none;
@@ -2756,7 +2756,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
 }
 .single-blog-post h6{
     color: #1cbac8;
-    font: 400 1em/1em "Open Sans", sans-serif;
+    font: 400 1em/1em "Avenir Next", sans-serif;
     margin: 2em 0 0;
     padding: 0;
 }
@@ -2799,7 +2799,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
 ============================== */
 
 .news p {
-    font: 400 14px/26px "Open Sans", sans-serif;
+    font: 400 14px/26px "Avenir Next", sans-serif;
     color: #898989;
 }
 
@@ -2810,7 +2810,7 @@ body {font-family: "Open Sans", sans-serif; font-weight: 100%; height:100%;overf
 .post-list li {
   float: left;
   width: 270px;
-  font: 400 14px/30px "Open Sans", sans-serif;
+  font: 400 14px/30px "Avenir Next", sans-serif;
   color: #ff8c04;
   letter-spacing: 0.3px;
 }
@@ -2852,7 +2852,7 @@ blockquote:before {
 }
 blockquote p {
   float: left;
-  font: 400 16px/26px "Open Sans", sans-serif;
+  font: 400 16px/26px "Avenir Next", sans-serif;
   letter-spacing: 0.3px;
   color: #898989;
   width: -webkit-calc(100% - 70px);
@@ -2937,12 +2937,12 @@ blockquote footer a {
   }
 }
 .comments .comment .media-body h5 {
-  font: 500 1em/2em "Open Sans", sans-serif;
+  font: 500 1em/2em "Avenir Next", sans-serif;
   margin: 0;
   color: #242424;
 }
 .comments .comment .media-body p {
-  font: 400 14px/30px "Open Sans", sans-serif;
+  font: 400 14px/30px "Avenir Next", sans-serif;
   color: #898989;
 }
 .comments .comment .media-body .date-reply {
@@ -2960,7 +2960,7 @@ blockquote footer a {
 }
 .comments .comment .media-body .date-reply li a {
   padding: 0;
-  font: 13px/1 "Open Sans", sans-serif;
+  font: 13px/1 "Avenir Next", sans-serif;
   text-transform: capitalize;
   color: #47bcca;
 }
@@ -3024,7 +3024,7 @@ blockquote footer a {
 .comment_form .form-control {
   border-radius: 0;
   padding: 9px 20px;
-  font: 14px/25px "Open Sans", sans-serif;
+  font: 14px/25px "Avenir Next", sans-serif;
   color: #000;
   margin-bottom: 20px;
   background: #f9f9f9;
@@ -3095,7 +3095,7 @@ blockquote footer a {
   border: 1px solid #f6ba18;
   text-transform: uppercase;
   letter-spacing: 1px;
-  font: 600 1.2em/2.1em "Open Sans", sans-serif;
+  font: 600 1.2em/2.1em "Avenir Next", sans-serif;
   padding: 7px 22px 7px 22px;
   color: #19242a;
   margin-top: 10px;
@@ -3138,7 +3138,7 @@ blockquote footer a {
 }
 .touch .touch_bg .touch_top-con ul .item .media .media-body {
   text-align: left;
-  font: 14px/26px "Open Sans", sans-serif;
+  font: 14px/26px "Avenir Next", sans-serif;
   color: #898989;
   letter-spacing: 0.3px;
 }
@@ -3161,7 +3161,7 @@ blockquote footer a {
 .touch .touch_bg .touch_middle .input_form form .form-control {
   margin-bottom: 20px;
   border-radius: 0;
-  font: 15px/31px "Open Sans", sans-serif;
+  font: 15px/31px "Avenir Next", sans-serif;
   color: #959595;
   padding: 11px 20px;
   border: 1px solid #e1e1e1;
@@ -3181,7 +3181,7 @@ blockquote footer a {
   margin-bottom: 0;
 }
 .touch .touch_bg .touch_middle .input_form form .form-control.error + .error {
-  font: 13px/24px "Open Sans", sans-serif;
+  font: 13px/24px "Avenir Next", sans-serif;
   margin-bottom: 20px;
   margin-top: 5px;
   color: red;
@@ -3265,18 +3265,18 @@ blockquote footer a {
 .touch p{
     margin: 0 0 1.2em;
     padding: 0;
-    font: 400 1em/1.8em "Open Sans", sans-serif;    
+    font: 400 1em/1.8em "Avenir Next", sans-serif;    
     color: #8E8D8D;
 }
 .touch h6{
    color: #1088cc; 
-    font: 400 1.2em/1.8em "Open Sans", sans-serif;
+    font: 400 1.2em/1.8em "Avenir Next", sans-serif;
     letter-spacing: 0.3px;
     font-style: italic;
 }
 .touch h6 span{
     color:#de5842;
-    font: 400 1.2em/1.8em "Open Sans", sans-serif;
+    font: 400 1.2em/1.8em "Avenir Next", sans-serif;
     letter-spacing: 0.3px;
      font-style: italic;
 }
@@ -3293,7 +3293,7 @@ blockquote footer a {
     padding: 0 0 6em; 
 }
 .testimonials p{
-    font: 400 14px/26px "Open Sans", sans-serif;
+    font: 400 14px/26px "Avenir Next", sans-serif;
     letter-spacing: 0.3px;
     color: #898989;
     padding-top: 25px;
@@ -3304,20 +3304,20 @@ blockquote footer a {
     border-bottom: 1px solid #e4e4e4;
 }
 .testimonial-p .media-body h3 {
-     font: 400 1.2em/1em "Open Sans", sans-serif;
+     font: 400 1.2em/1em "Avenir Next", sans-serif;
     letter-spacing: 0.3px;
     color: #242424;
     margin: 0 0 0.8em;
     padding: 0;
 }
 .testimonial-p .media-body p {
-    font: 400 1em/1.8em "Open Sans", sans-serif;
+    font: 400 1em/1.8em "Avenir Next", sans-serif;
     letter-spacing: 0.3px;
     color: #898989;
     margin-bottom: 1em;
 }
 .testimonial-p .media-body a {
-    font: 600 14px/26px "Open Sans", sans-serif;
+    font: 600 14px/26px "Avenir Next", sans-serif;
     letter-spacing: 0.3px;
     color: #1fb5c7;
     font-style: italic;
@@ -3406,7 +3406,7 @@ blockquote footer a {
 .req-page span{
     display: block;
     color: #404040;
-    font: 600 1em/1.2em "Open Sans", sans-serif;
+    font: 600 1em/1.2em "Avenir Next", sans-serif;
     margin: 0 0 0.6em;
 }
 
@@ -3416,7 +3416,7 @@ blockquote footer a {
 .req-page-area form .form-control {
     margin-bottom: 20px;
     border-radius: 0;
-    font: 15px/31px "Open Sans", sans-serif;
+    font: 15px/31px "Avenir Next", sans-serif;
     color: #959595;
     padding: 11px 20px;
     border: 1px solid #e1e1e1;
@@ -3438,7 +3438,7 @@ blockquote footer a {
     border: 1px solid #f6ba18;
     text-transform: uppercase;
     letter-spacing: 1px;
-    font: 600 1.2em/2.1em "Open Sans", sans-serif;
+    font: 600 1.2em/2.1em "Avenir Next", sans-serif;
     padding: 7px 22px 7px 22px;
     color: #19242a;
     margin-top: 10px;
@@ -3463,7 +3463,7 @@ blockquote footer a {
   margin-bottom: 0;
 }
 .req-page-area form .form-control.error + .error {
-  font: 13px/24px "Open Sans", sans-serif;
+  font: 13px/24px "Avenir Next", sans-serif;
   margin-bottom: 20px;
   margin-top: 5px;
   color: red;
@@ -3477,7 +3477,7 @@ blockquote footer a {
 }
 .req-page-area span{
     color:#404040;
-    font: 1.1em/1.1em "Open Sans", sans-serif;
+    font: 1.1em/1.1em "Avenir Next", sans-serif;
     display: block;
     padding: 0 0 0.5em;
 }
@@ -3517,13 +3517,13 @@ blockquote footer a {
 }
 .projects_hours p{
    color:#242424; 
-   font:600 1.3em/2em "Open Sans", sans-serif;
+   font:600 1.3em/2em "Avenir Next", sans-serif;
    margin: 0; padding: 0;
 }
 .projects_hours p span{
   display: block;
     color: #777;
-    font: 400 1em/1.8em "Open Sans", sans-serif;
+    font: 400 1em/1.8em "Avenir Next", sans-serif;
 }
 .project-con{
         background: #f5f5f5;
@@ -3532,7 +3532,7 @@ blockquote footer a {
 }
 .project-con h2{
    color:#242424; 
-   font:600 1.3em/2em "Open Sans", sans-serif;
+   font:600 1.3em/2em "Avenir Next", sans-serif;
      margin: 0; padding: 0 0 1em;
 }
 
@@ -3540,7 +3540,7 @@ blockquote footer a {
    color: #898989;
     margin: 0 0 1.2em;
     padding: 0;
-    font: 400 1em/1.8em "Open Sans", sans-serif;
+    font: 400 1em/1.8em "Avenir Next", sans-serif;
     letter-spacing: 0.3px;
 }
 .project-scop{
@@ -3553,14 +3553,14 @@ blockquote footer a {
 
 .project-scop h3{
   color:#242424; 
-   font:600 1.3em/1em "Open Sans", sans-serif;
+   font:600 1.3em/1em "Avenir Next", sans-serif;
      margin: 0; padding: 0 0 1em;  
 }
 
 .project-scop p{
     margin: 0 0 1.2em;
     padding: 0;
-    font: 400 1em/1.8em "Open Sans", sans-serif;
+    font: 400 1em/1.8em "Avenir Next", sans-serif;
     letter-spacing: 0.3px;
     color: #777777; 
 }
@@ -3572,7 +3572,7 @@ blockquote footer a {
 }
 .project-scop .scope-item li {
     list-style: none;
-    font:400 1.1em/1.5em "Open Sans", sans-serif;
+    font:400 1.1em/1.5em "Avenir Next", sans-serif;
     color: #009bb3;
     -webkit-transition: all 300ms linear 0s;
     transition: all 300ms linear 0s;
@@ -3668,13 +3668,13 @@ blockquote footer a {
 .single-shop-item .content h3 {font-size: 15px;font-weight: bold;color: #242424;margin: 0;text-transform: uppercase;margin-bottom: 10px;}
 .single-shop-item .content .review-box i {font-size: 13px;color: #FAB90A;}
 .single-shop-item .content .price {font-family: 'Alegreya';font-size: 25px;color: #2D2D2D;font-style: italic;display: block;}
-.single-shop-item .content a.thm-btn {background: #FAB90A;border-radius: 5px;color: #000000;text-transform: uppercase;line-height: 32px;display: inline-block;letter-spacing: .05em;font-family: 'Open Sans';font-weight: 600;padding: 0 18px;margin-top: 10px;}
+.single-shop-item .content a.thm-btn {background: #FAB90A;border-radius: 5px;color: #000000;text-transform: uppercase;line-height: 32px;display: inline-block;letter-spacing: .05em;font-family: 'Avenir Next';font-weight: 600;padding: 0 18px;margin-top: 10px;}
 .single-shop-item .content a.thm-btn:hover {background: #019BB2;color: #fff;}
 .shop-page .page-navigation {margin-top: 0;text-align: center;}
 
 /*popular product widget */
 
-.single-sidebar-widget .best-seller.popular-post .content a h4 {font-size: 13px;text-transform: uppercase;font-family: 'Open Sans';color: #242424;margin: 0;}
+.single-sidebar-widget .best-seller.popular-post .content a h4 {font-size: 13px;text-transform: uppercase;font-family: 'Avenir Next';color: #242424;margin: 0;}
 .single-sidebar-widget .best-seller.popular-post .content p {font-size: 25px;color: #2D2D2D;font-family: 'Alegreya';font-style: italic;margin: 10px 0 15px;}
 .single-sidebar-widget .best-seller.popular-post .content a.read-more {font-size: 13px;text-transform: uppercase;color: #1CBAC8;font-weight: bold;font-family: 'Raleway';letter-spacing: .03em;}
 
@@ -3741,7 +3741,7 @@ blockquote footer a {
 .cart-page .cart-total-box .proceed-to-checkout a .cart-button {background: #252525 none repeat scroll 0 0; border-radius: 5px; display: inline-block; margin-top: 24px; }
 .cart-page .cart-total-box .proceed-to-checkout a .cart-button p {border-right: 1px solid #000000; color: #ffffff; display: inline-block; float: left; font-size: 12px; line-height: 40px; margin: 0; padding-left: 21px; padding-right: 17px; text-transform: uppercase; }
 .cart-page .cart-total-box .proceed-to-checkout {    padding-right: 0; padding-top: 10px; border: 1px solid #ebebeb; border-top: 0; padding-bottom: 10px; padding-right: 20px;}
- .cart-page .cart-total-box .proceed-to-checkout .cart-btn {background: #FAB90A; border-radius: 5px; color: #000000; text-transform: uppercase; line-height: 32px; display: inline-block; letter-spacing: .05em; font-family: 'Open Sans'; font-weight: 600; padding: 0 18px; margin-top: 10px;}
+ .cart-page .cart-total-box .proceed-to-checkout .cart-btn {background: #FAB90A; border-radius: 5px; color: #000000; text-transform: uppercase; line-height: 32px; display: inline-block; letter-spacing: .05em; font-family: 'Avenir Next'; font-weight: 600; padding: 0 18px; margin-top: 10px;}
 .cart-page .cart-total-box .proceed-to-checkout .cart-btn i {font-size: 17px; margin-right: 7px; }
 .cart-page .cart-total-box .proceed-to-checkout .cart-btn:hover {background: #1FB5C7; color: #fff; border-color: #1FB5C7; }
 .cart-page .cart-total-box .proceed-to-checkout a .cart-button i {border-left: 1px solid #404040; color: #98bc24; display: inline-block; float: left; font-size: 17px; line-height: 40px; padding-left: 14px; padding-right: 15px; }
@@ -3750,9 +3750,9 @@ blockquote footer a {
 .cart-page .select-menu + .ui-selectmenu-button .ui-selectmenu-text {border-right: 1px solid #E5E5E5; }
 .cart-page .select-menu + .ui-selectmenu-button {width: 100% !important; border-radius: 0; padding: 0px 40px 0 20px; border: 1px solid #E5E5E5; height: 42px; background: #fff; outline: none; color: #898989; }
 .cart-page .thm-btn {font-size: 14px; padding: 7px 23px; }
-.cart-page .select-menu + .ui-selectmenu-button .ui-selectmenu-text {padding: 0; font-weight: normal; font-family: 'Open Sans', sans-serif; line-height: 42px; }
+.cart-page .select-menu + .ui-selectmenu-button .ui-selectmenu-text {padding: 0; font-weight: normal; font-family: 'Avenir Next', sans-serif; line-height: 42px; }
 .cart-page .select-menu + .ui-selectmenu-button .ui-icon.ui-icon-triangle-1-s {background: url(../images/select-menu-arrow.png) 0 0 no-repeat; width: 16px; height: 6px; margin-top: -3px; margin-right: 4px; }
-.cart-page .bottom-box .cart-btn {background: #FAB90A; border-radius: 5px; color: #000000; text-transform: uppercase; line-height: 32px; display: inline-block; letter-spacing: .05em; font-family: 'Open Sans'; font-weight: 600; padding: 0 18px; margin-top: 10px; }
+.cart-page .bottom-box .cart-btn {background: #FAB90A; border-radius: 5px; color: #000000; text-transform: uppercase; line-height: 32px; display: inline-block; letter-spacing: .05em; font-family: 'Avenir Next'; font-weight: 600; padding: 0 18px; margin-top: 10px; }
 .cart-page .bottom-box .cart-btn i {font-size: 17px; margin-right: 7px; }
 .cart-page .bottom-box .cart-btn:hover {background: #D6B161; color: #fff; border-color: #D6B161; }
 
@@ -3783,18 +3783,18 @@ blockquote footer a {
 #checkout-content .order-box {border: 1px solid #D9D9D9; padding: 30px; }
 #checkout-content .order-box ul li {color: #8e8d8d; display: block; font-size: 14px; font-weight: 400; line-height: 45px; }
 #checkout-content .order-box ul li.total {border-bottom: 1px solid #e2e2e2; border-top: 1px solid #e2e2e2; color: #242424; }
-#checkout-content .order-box ul li span {color: #898989; display: inline-block; float: right; font-size: 14px; font-family: "Open Sans", sans-serif; }
-#checkout-content .order-box ul li span.bold {color: #242424; font-size: 18px; font-weight: 500; font-family: "Open Sans", sans-serif; }
+#checkout-content .order-box ul li span {color: #898989; display: inline-block; float: right; font-size: 14px; font-family: "Avenir Next", sans-serif; }
+#checkout-content .order-box ul li span.bold {color: #242424; font-size: 18px; font-weight: 500; font-family: "Avenir Next", sans-serif; }
 #checkout-content .order-box ul li a span {color: #11A9E0; font-size: 13px; font-weight: 500; font-family: "Raleway", sans-serif; }
 #checkout-content .order-box ul li.place-order-button {padding-top: 20px; line-height: 30px; }
 #checkout-content .order-box ul li input[type="radio"] {margin-right: 10px; }
 #checkout-content .order-box ul li .note {background: #ECECEC; padding: 25px; color: #8E8D8D; line-height: 24px; font-size: 14px; font-weight: normal; position: relative; }
 #checkout-content .order-box ul li .note .fa {font-size: 35px; position: absolute; top: -22px; left: 25px; color: #ECECEC; }
 #checkout-content .order-box ul li a.place-order {background: #FD9C1E; text-transform: uppercase; display: inline-block; line-height: 36px; font-weight: 700; color: #fff; padding: 0 40px; margin-top: 30px; }
-#checkout-content .select-menu + .ui-selectmenu-button .ui-selectmenu-text {padding: 0; font-weight: normal; font-family: 'Open Sans', sans-serif; line-height: 42px; color: #898989; text-transform: capitalize; }
+#checkout-content .select-menu + .ui-selectmenu-button .ui-selectmenu-text {padding: 0; font-weight: normal; font-family: 'Avenir Next', sans-serif; line-height: 42px; color: #898989; text-transform: capitalize; }
 #checkout-content .select-menu + .ui-selectmenu-button .ui-icon.ui-icon-triangle-1-s {background: url(../images/select-menu-arrow.png) 0 0 no-repeat; width: 14px; height: 6px; margin-top: -3px; margin-right: 8px; }
 #checkout-content .select-menu + .ui-selectmenu-button {width: 100% !important; border-radius: 0; padding: 0px 20px; border: 1px solid #E5E5E5; height: 42px; background: #fff; outline: none; color: #898989; }
-#checkout-content .thm-btn {background: #FAB90A; border-radius: 5px; color: #000000; text-transform: uppercase; line-height: 42px; display: inline-block; letter-spacing: .05em; font-family: 'Open Sans'; font-weight: 600; padding: 0 18px; margin-top: 10px; float: right;}
+#checkout-content .thm-btn {background: #FAB90A; border-radius: 5px; color: #000000; text-transform: uppercase; line-height: 42px; display: inline-block; letter-spacing: .05em; font-family: 'Avenir Next'; font-weight: 600; padding: 0 18px; margin-top: 10px; float: right;}
 #checkout-content .thm-btn i {font-size: 17px; margin-left: 7px; }
 #checkout-content .thm-btn:hover {background: #1FB5C7; color: #fff; border-color: #1FB5C7; }
 
@@ -3814,7 +3814,7 @@ blockquote footer a {
 .faq-page .accrodion.active .accrodion-title:after {border-color: #fff; color: #fff; }
 .faq-question-one .single-faq {margin-bottom: 28px; }
 .faq-question-one .single-faq:last-child {margin-bottom: 0; }
-.faq-question-one .single-faq h3 {font-size: 16px; line-height: 33px; font-weight: bold; color: #242424; font-family: 'Open Sans', sans-serif; }
+.faq-question-one .single-faq h3 {font-size: 16px; line-height: 33px; font-weight: bold; color: #242424; font-family: 'Avenir Next', sans-serif; }
 .faq-question-one .single-faq p {color: #898989; margin-top: 4px; }
 
 
@@ -3824,7 +3824,7 @@ blockquote footer a {
 .wel-t-band{
     position: relative;
     background: #f0f2f3;
-    font: 400 1em/1em "Open Sans", sans-serif;
+    font: 400 1em/1em "Avenir Next", sans-serif;
     color: #6e6e6e;
 }
 .wel-t-band p span{
@@ -3924,7 +3924,7 @@ blockquote footer a {
   text-transform: uppercase;
   -webkit-transition: all .3s ease;
   transition: all .3s ease;
-  font: 600 1.36em/1em 'Open Sans Condensed', sans-serif;
+  font: 600 1.36em/1em 'Avenir Next Condensed', sans-serif;
     border-right: 1px dashed #3f5262;
 }
 .nav-t-holder .nav-t-footer ul.nav > li > ul.submenu {
@@ -3977,7 +3977,7 @@ blockquote footer a {
 }
 .nav-t-holder .nav-t-footer ul.nav > li ul.submenu li a {
   color: #a2a8ae;
-  font: 600 1.0612em/1em 'Open Sans', sans-serif;
+  font: 600 1.0612em/1em 'Avenir Next', sans-serif;
   padding: 15px 25px 15px;
   border-bottom: 1px solid #163148;
   position: relative;
@@ -4026,7 +4026,7 @@ blockquote footer a {
 
 
 .widget-t-search{float:right;padding: 8px 0;}
-.widget-t .search-form .form-control {height: 37px; border-radius: 0;border: none;font: 1em/1em "Open Sans", sans-serif;padding: 0 15px;
+.widget-t .search-form .form-control {height: 37px; border-radius: 0;border: none;font: 1em/1em "Avenir Next", sans-serif;padding: 0 15px;
 -webkit-box-shadow: none; box-shadow: none;color: #c0c0c0; z-index: 0; background: #081e2f;}
 .widget-t-inner{border:1px solid #1a2e40;     width: 245px;    margin-top: 0.3em;}
 .widget-t .search-form .form-control + .input-group-addon {padding: 0; border: 0; border-radius: 0; background-color: #081e2f;}
@@ -4060,7 +4060,7 @@ blockquote footer a {
  background: #F7BE3D;
  color: #fff;
  border: 2px solid #F7BE3D;
- font: 300 1.2em/1em "Open Sans", sans-serif;   
+ font: 300 1.2em/1em "Avenir Next", sans-serif;   
 }
 .thm-banner-t-wrapper .inverse:hover {
  color: #fff;
@@ -4075,7 +4075,7 @@ blockquote footer a {
    font-weight: bold !important;
     padding: 1.1em 2.5em;
     border-radius: 4px;
-    font: 400 1.2em/1em "Open Sans", sans-serif;
+    font: 400 1.2em/1em "Avenir Next", sans-serif;
    
 }
 .thm-banner-t-wrapper .thm-btn i {
@@ -4086,7 +4086,7 @@ blockquote footer a {
  background: #53cff5;
  color: #fff;
  border: 2px solid #53cff5;
- font: 300 1.2em/1em "Open Sans", sans-serif;   
+ font: 300 1.2em/1em "Avenir Next", sans-serif;   
 }
 .thm-banner-t-wrapper .inversen:hover {
  color: #fff;
@@ -4145,7 +4145,7 @@ blockquote footer a {
     border-left: 3px solid #25639a;
 }
 .we-offer-cont2 p{
-    font: 400 1.2em/1.3em "Open Sans", sans-serif;
+    font: 400 1.2em/1.3em "Avenir Next", sans-serif;
     margin: 0; padding: 0 0 0 2em;
     font-style: italic;
     color: #6c6c6c;
@@ -4233,7 +4233,7 @@ cursor: default;
     position: relative;
 }
 .quality-wrapper h2{
-    font: 300 2.8em/1.3em "Open Sans", sans-serif;
+    font: 300 2.8em/1.3em "Avenir Next", sans-serif;
     margin: 0 0 1.2em;
     padding: 0;
     color: #242424;
@@ -4242,7 +4242,7 @@ cursor: default;
     color: #6c6c6c;
      margin: 0 0 4em;
     padding: 0;
-    font: 400 1.2em/1.8em "Open Sans", sans-serif;
+    font: 400 1.2em/1.8em "Avenir Next", sans-serif;
 }
 .vision-wrapper{
     position: relative;    
@@ -4255,7 +4255,7 @@ cursor: default;
 }
 .vision-wrapper ul li p{
     color: #6c6c6c;
-    font: 700 1.6em/1.8em "Open Sans", sans-serif;
+    font: 700 1.6em/1.8em "Avenir Next", sans-serif;
     padding: 0;
     margin: 0;
     text-transform: uppercase;
@@ -4344,7 +4344,7 @@ cursor: default;
 .testimonial-t-sec .testimonialn-slider .content p{
     color: #bbc1c7;
     margin:1em 0 0; padding: 0;
-    font:400 1.1em/1.6em "Open Sans", sans-serif;
+    font:400 1.1em/1.6em "Avenir Next", sans-serif;
 }
 .testimonial-t-sec .testimonialn-slider .sign img{
     width: 160px;
@@ -4365,14 +4365,14 @@ cursor: default;
     margin: 1em 0 0;
 }
 .testimonial-t-sec .testimonialn-slider .name-content .client-name p{
-   font:600 1.3em/2em "Open Sans", sans-serif;
+   font:600 1.3em/2em "Avenir Next", sans-serif;
     margin: 0; padding: 0;
     color: #fff;
 }
 .testimonial-t-sec .testimonialn-slider .name-content .client-name p span{
    display: block;
     color: #fff;
-    font:400 0.79em/1.8em "Open Sans", sans-serif;
+    font:400 0.79em/1.8em "Avenir Next", sans-serif;
 }
 .testimonial-t-sec .testimonialn-slider .name-content .client-name ul li{
     display: inline-block;
@@ -4452,7 +4452,7 @@ cursor: default;
     bottom: 0;
 }
 .indurial-solution-text2 h2 {
-    font: 700 2.57em/1em 'Open Sans Condensed', sans-serif;
+    font: 700 2.57em/1em 'Avenir Next Condensed', sans-serif;
     color: #fff;
     margin: 0;
     padding:0;
@@ -4479,13 +4479,13 @@ cursor: default;
 }
 .about-sec-content h4{
     color: #303030;
-    font: 400 1.3em/1.5em "Open Sans", sans-serif;
+    font: 400 1.3em/1.5em "Avenir Next", sans-serif;
     margin: 0.8em 0 1em;
     padding: 0;
 }
 .about-sec-content p{
     color: #898989;
-    font: 400 1.1em/1.7em "Open Sans", sans-serif;
+    font: 400 1.1em/1.7em "Avenir Next", sans-serif;
     margin: 0 0 1em;
     padding: 0;
 }
@@ -4494,7 +4494,7 @@ cursor: default;
 }
 .about-sec-content ul li{
     color: #6c6c6c;
-    font: 400 1.1em/2em "Open Sans", sans-serif;
+    font: 400 1.1em/2em "Avenir Next", sans-serif;
 }
 .about-sec-content ul li .fa{
     color: #233859;
@@ -4547,7 +4547,7 @@ cursor: default;
     padding: 0 0 0 50px;
 }
 .accordian-area .panel-title{
-    font: 400 1.23em/1em "Open Sans", sans-serif;
+    font: 400 1.23em/1em "Avenir Next", sans-serif;
 }
 .accordian-area .panel .panel-heading .panel-title a.collapsed{
     background: #fff;
@@ -4562,7 +4562,7 @@ cursor: default;
 .accordian-area .panel-body{
    background: #fff;
     color: #898989;
-    font: 400 1.1em/1.8em "Open Sans", sans-serif;
+    font: 400 1.1em/1.8em "Avenir Next", sans-serif;
 }
 .section_header3 h2{
     color: #fff;
@@ -4665,14 +4665,14 @@ cursor: default;
     bottom: -13px;  
 }
 .news-evn-img .event-date h3{
-   font:600 1.6em/1.2em "Open Sans", sans-serif;
+   font:600 1.6em/1.2em "Avenir Next", sans-serif;
    color: #fff;
    margin: 0;
     padding: 0.4em 0 0;
 }
 .news-evn-img .event-date h3 small{
    color: #fff;
-  font:400 0.59em/1em "Open Sans", sans-serif;
+  font:400 0.59em/1em "Avenir Next", sans-serif;
     display: block;
 }
 
@@ -4689,7 +4689,7 @@ cursor: default;
     padding: 0 0 0.5em;   
 }
 .news-evn-cont p{
-   font:400 1em/1.5em "Open Sans", sans-serif;
+   font:400 1em/1.5em "Avenir Next", sans-serif;
    color: #8e8d8d;
    margin: 0;
     padding: 0;   
@@ -4728,7 +4728,7 @@ cursor: default;
     padding: 3em 0;
 }
 .our-sol-wrapper p{
-   font:600 2.3em/1.5em "Open Sans", sans-serif;
+   font:600 2.3em/1.5em "Avenir Next", sans-serif;
     margin: 0; padding: 0; color: #fff;
     text-align: center;
 }
@@ -4748,7 +4748,7 @@ cursor: default;
 }
 .our-t-client p{
     color: #898989;
-    font:400 1em/1.8em "Open Sans", sans-serif;
+    font:400 1em/1.8em "Avenir Next", sans-serif;
     margin: 1em 0 2em; padding: 0;
     
 }
@@ -4789,7 +4789,7 @@ cursor: default;
 .get-t-touch .input_form form .form-control {
     margin-bottom: 20px;
     border-radius: 0;
-    font: 1em/1em "Open Sans", sans-serif;
+    font: 1em/1em "Avenir Next", sans-serif;
     color: #b7b6b6;
     padding: 11px 20px;
     border: 1px solid #eaeaea;
@@ -4811,7 +4811,7 @@ cursor: default;
 }
 .get-t-touch .select-menu + .ui-selectmenu-button .ui-selectmenu-text {
     padding: 0;
-    font: 0.9em/1em "Open Sans", sans-serif;
+    font: 0.9em/1em "Avenir Next", sans-serif;
     line-height: 42px;
 }
 .get-t-touch .select-menu + .ui-selectmenu-button .ui-icon.ui-icon-triangle-1-s {

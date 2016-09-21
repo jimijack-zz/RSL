@@ -1507,8 +1507,9 @@ body {font-family: "Avenir Next", sans-serif; font-weight: 100%; height:100%;ove
 }
 .about-tab-box .tab-title-box ul li.active,
 .about-tab-box .tab-title-box ul li:hover {
-  background: #009bb3;
-     border: 2px solid transparent;
+  background: rgba(10, 110, 208, .5);
+  border: 2px solid transparent;
+  border-radius: 4px;
 }
 .about-tab-box .tab-title-box ul li:before {
   position: absolute;
@@ -1523,7 +1524,7 @@ body {font-family: "Avenir Next", sans-serif; font-weight: 100%; height:100%;ove
 
 .about-tab-box .tab-title-box ul li.active:before,
 .about-tab-box .tab-title-box ul li:hover:before {
-  background: #e6ab0c;
+  /*background: #e6ab0c;*/
 }
 .about-tab-box .tab-title-box ul li.active:after {
   opacity: 1;
@@ -1535,9 +1536,9 @@ body {font-family: "Avenir Next", sans-serif; font-weight: 100%; height:100%;ove
 }
 .about-tab-box .tab-title-box ul li a {
   text-align: left;
-  font: 500 1.54em/1em "Avenir Next", sans-serif;
+  font: 600 1.54em/1em "Avenir Next", sans-serif;
   display: block;
-  font-weight: bold;
+  /*font-weight: bold;*/
   color: #242424;
   padding:1em;
   transition: all 0.3s ease;
@@ -1593,7 +1594,7 @@ body {font-family: "Avenir Next", sans-serif; font-weight: 100%; height:100%;ove
 }
 .about-tab-box .single-tab-content .abot-img{
      display: inline-block;
-     margin-top: 2em;
+     /*margin-top: 2em;*/
 }
 .about-tab-box .single-tab-content .abot-img img{
     max-width: 100%;

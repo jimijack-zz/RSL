@@ -1168,6 +1168,15 @@ body {font-family: "Avenir Next", sans-serif; font-weight: 100%; height:100%;ove
     transition: all .3s ease;
 }
 
+.client-carousel .item h4 {
+    border-bottom: 2px solid rgba(10, 110, 208, .5); 
+    padding: 0 0 0.5em; 
+    color: #fff; 
+    text-align: 
+    center; 
+    text-transform: uppercase; 
+    font-weight: 400;
+}
 /* ==============================
   13. Indurial Solution styles
 ============================== */

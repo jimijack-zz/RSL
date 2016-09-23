@@ -287,7 +287,7 @@ body {font-family: "Avenir Next", sans-serif; font-weight: 100%; height:100%;ove
 }
 .nav-holder .nav-footer ul.nav > li:hover a,
 .nav-holder .nav-footer ul.nav > li.active a {
-  color: #ff7f00;
+  color: #e6ab0c;
   background-color: transparent;
   font: 500 1.36em/1em 'Avenir Next', sans-serif;
 }
@@ -3107,8 +3107,8 @@ blockquote footer a {
   margin-bottom: 32px;
 }
 .comment_form .btn-primary {
-  background: #f6ba18;
-  border: 1px solid #f6ba18;
+  background: #e6ab0c;
+  border: 1px solid #e6ab0c;
   text-transform: uppercase;
   letter-spacing: 1px;
   font: 600 1.2em/2.1em "Avenir Next", sans-serif;
@@ -4875,7 +4875,7 @@ cursor: default;
     margin-left: 4em;
 }
 .contactus-button2 a {
-    background: #ff6f00;
+    background: #e6ab0c;
     color: #fff;
     border-radius: 4px;
     font: 600 1.08em/1em 'Roboto', sans-serif;

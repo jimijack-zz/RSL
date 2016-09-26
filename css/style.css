@@ -2834,13 +2834,13 @@ body {font-family: "Avenir Next", sans-serif; font-weight: 100%; height:100%;ove
 }
 .post-list li {
   float: left;
-  width: 270px;
-  font: 400 14px/30px "Avenir Next", sans-serif;
-  color: #ff8c04;
+  width: 350px;
+  font: 500 14px/30px "Avenir Next", sans-serif;
+  color: #0a6ed0;
   letter-spacing: 0.3px;
 }
 .post-list li:before {
-      content: "\f105";
+  content: "\f0a3";
   font: normal normal normal 14px/1 FontAwesome;
   font-size: 12px;
   text-rendering: auto;

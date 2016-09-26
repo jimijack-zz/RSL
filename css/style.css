@@ -1589,6 +1589,15 @@ body {font-family: "Avenir Next", sans-serif; font-weight: 100%; height:100%;ove
   margin: 0 0 1em;
   font: 400 1em/1.8em "Avenir Next", sans-serif;
 }
+
+.about-tab-box .single-tab-content a {
+  font: 600 14px/26px "Avenir Next", sans-serif;
+  letter-spacing: 0.3px;
+  color: rgba(10, 110, 208, .75);
+  font-style: italic;
+  text-align: left;
+  display: block;
+}
 .about-tab-box .single-tab-content ul li {
   color: #333E56;
   font-size: 15px;

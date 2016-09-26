@@ -2139,7 +2139,7 @@ body {font-family: "Avenir Next", sans-serif; font-weight: 100%; height:100%;ove
 .single-sidebar-widget .sec-title h2 span {
   font-size: 20px;
   text-transform: uppercase;
-    font: 600 0.8em/1em "Alegreya", serif;
+  font: 500 0.8em/1em "Avenir Next", sans-serif;
 }
 .single-sidebar-widget .sec-title h2:after {
   width: 35px;
@@ -2329,22 +2329,22 @@ body {font-family: "Avenir Next", sans-serif; font-weight: 100%; height:100%;ove
   vertical-align: middle;
 }
 .single-sidebar-widget .popular-post .img-box {
-  width: 110px;
+  width: 150px;
 }
 .single-sidebar-widget .popular-post .content {
   padding-left: 30px;
 }
 .single-sidebar-widget .popular-post .content a h4 {
   font-family: 'Avenir Next', sans-serif;
-  color: #242424;
+  color: #103d68;
   text-transform: uppercase;
-  font-size: 13px;
+  font-size: 15px;
   font-weight: 500;
   -webkit-transition: all .3s ease;
           transition: all .3s ease;
 }
 .single-sidebar-widget .popular-post .content a h4:hover {
-  color: #1FB5C7;
+  color: #0a6ed0;
 }
 .single-sidebar-widget .popular-post .content p {
   color: #8E8D8D;

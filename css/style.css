@@ -102,7 +102,7 @@ body {font-family: "Avenir Next", sans-serif; font-weight: 100%; height:100%;ove
 .accrodion .accrodion-content ul {margin-top: 19px; }
 .accrodion .accrodion-content ul li {font-size: 14px; line-height: 15px; color: #666666; margin-bottom: 8px; }
 .accrodion .accrodion-content ul li:last-child {margin-bottom: 0; }
-.accrodion .accrodion-content ul li:before {content: '\f105'; font-family: 'FontAwesome'; color: #898989; margin-right: 15px; }
+.accrodion .accrodion-content ul li:before {content: '\f013'; font-family: 'FontAwesome'; color: #444444; margin-right: 15px; }
 .accrodion .accrodion-content .img-caption .img-box,
 .accrodion .accrodion-content .img-caption .content-box {display: table-cell; vertical-align: top; }
 .accrodion .accrodion-content .img-caption .img-box {width: 200px; }

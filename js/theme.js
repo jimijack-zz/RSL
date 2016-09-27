@@ -256,11 +256,14 @@ function accrodion() {
             Self.find('.accrodion').each(function() {
                 $(this).find('.accrodion-title').on('click', function() {
                     if ($(this).parent().hasClass('active') === false) {
-                        $('.accrodion-grp.' + accrodionName).find('.accrodion').removeClass('active');
-                        $('.accrodion-grp.' + accrodionName).find('.accrodion').find('.accrodion-content').slideUp();
+                        // $('.accrodion-grp.' + accrodionName).find('.accrodion').removeClass('active');
+                        // $('.accrodion-grp.' + accrodionName).find('.accrodion').find('.accrodion-content').slideUp();
                         $(this).parent().addClass('active');
                         $(this).parent().find('.accrodion-content').slideDown();
-                    };
+                    } else if ($(this).parent().hasClass('active') === true) {
+                        $('.accrodion-grp.' + accrodionName).find('.accrodion').removeClass('active');
+                        $('.accrodion-grp.' + accrodionName).find('.accrodion').find('.accrodion-content').slideUp();
+                    }
                 });
             });
         });

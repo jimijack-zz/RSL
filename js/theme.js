@@ -256,6 +256,7 @@ function accrodion() {
             Self.find('.accrodion').each(function() {
                 $(this).find('.accrodion-title').on('click', function() {
                     if ($(this).parent().hasClass('active') === false) {
+                        // IF YOU WANT ACTIVE ACCORDION TO CLOSE WHEN onCLICK A NEW ONE //
                         // $('.accrodion-grp.' + accrodionName).find('.accrodion').removeClass('active');
                         // $('.accrodion-grp.' + accrodionName).find('.accrodion').find('.accrodion-content').slideUp();
                         $(this).parent().addClass('active');

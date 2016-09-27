@@ -105,7 +105,7 @@ body {font-family: "Avenir Next", sans-serif; font-weight: 100%; height:100%;ove
 .accrodion .accrodion-content ul li:before {content: '\f105'; font-family: 'FontAwesome'; color: #898989; margin-right: 15px; }
 .accrodion .accrodion-content .img-caption .img-box,
 .accrodion .accrodion-content .img-caption .content-box {display: table-cell; vertical-align: top; }
-.accrodion .accrodion-content .img-caption .img-box {width: 143px; }
+.accrodion .accrodion-content .img-caption .img-box {width: 200px; }
 .accrodion .accrodion-content .img-caption .content-box {padding-left: 25px; }
 .accrodion .accrodion-content .img-caption .content-box p {margin-bottom: 0;}
 
@@ -1462,7 +1462,7 @@ body {font-family: "Avenir Next", sans-serif; font-weight: 100%; height:100%;ove
 .breadcumb-wrapper ul.breadcumb li a
  {
   display: inline-block;
-  color: #20bcd4;
+  color: #103d68;
   font-weight: 700;
   font-size: 13px;
   text-transform: uppercase;
@@ -3148,8 +3148,8 @@ blockquote footer a {
   vertical-align: middle;
 }
 .touch .touch_bg .touch_top-con ul .item .media .media-left a {
-  color: #009bb3;
-  border: 1px solid #009bb3;
+  color: #0a6ed0;
+    border: 1px solid #0a6ed0;
   border-radius: 100%;
   display: block;
   width: 50px;
@@ -3833,7 +3833,7 @@ blockquote footer a {
 .faq-form input {height: 44px; border: 1px solid #E9E9E9; outline: none; padding-left: 25px; width: 79%; position: relative; top: 1px; }
 .faq-form .thm-btn {padding: 0px 41px; line-height: 44px; border-radius: 0; margin-left: -4px; border: none; position: relative; top: 1px; background: #1FB5C7;}
 .faq-page .accrodion .accrodion-title h4 {text-transform: none; font-weight: normal; color: #8E8D8D; }
-.faq-page .accrodion.active .accrodion-title {background: #1FB5C7; }
+.faq-page .accrodion.active .accrodion-title {background: rgba(10, 110, 208, 0.7);; }
 .faq-page .accrodion.active .accrodion-title h4 {color: #fff; }
 .faq-page .accrodion.active .accrodion-title h4 {color: #fff; }
 .faq-page .accrodion.active .accrodion-title:after {border-color: #fff; color: #fff; }

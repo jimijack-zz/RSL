@@ -2571,6 +2571,11 @@ td:before {
 .single-post-page .image-caption-box .caption-box-img {
   width: 248px;
 }
+
+.caption-box-img p {
+  font-size: 13px;
+  padding: 5px 0px;
+}
 /* ==============================
   22. Core Projects page styles
 ============================== */

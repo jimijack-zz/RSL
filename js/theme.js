@@ -64,7 +64,7 @@ $('.pro-sliders').owlCarousel({
             items: 3
         },
         992: {
-            items: 3,
+            items: 4,
         }
     }
 });

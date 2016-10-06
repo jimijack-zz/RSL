@@ -2504,6 +2504,12 @@ body {font-family: "Avenir Next", sans-serif; font-weight: 100%; height:100%;ove
     font: 400 1em/1.8em "Avenir Next", sans-serif;
     letter-spacing: 0.3px;
 }
+
+.sec-title .bullets p {
+    line-height: 1em;
+    font-weight: 500;
+}
+
 .single-service-page .image-caption-box .text-box h2, .single-post-page .image-caption-box .text-box h2 {
     color: #242424;
     font-size: 20px;
@@ -2580,6 +2586,7 @@ td:before {
 .single-service-page .image-caption-box .text-box div > p,
 .single-post-page .image-caption-box .text-box div > p {
   line-height: 1;
+  font-weight: 500;
 }
 
 .single-service-page .image-caption-box .caption-box-img,

@@ -3279,8 +3279,8 @@ blockquote footer a {
   letter-spacing: 3px;
 }
 .touch .touch_bg .touch_middle .input_form form button:hover {
-  color: #000;
-  border-color: #bb793c;
+  color: #ffffff;
+  border-color: #0a6ed0;
 }
 .touch .touch_bg .touch_middle .input_form #success, .touch .touch_bg .touch_middle .input_form #error {
   position: absolute;

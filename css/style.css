@@ -2576,6 +2576,12 @@ td:before {
     font: 400 1em/1.8em "Avenir Next", sans-serif;
     letter-spacing: 0.3px;
 }
+
+.single-service-page .image-caption-box .text-box div > p,
+.single-post-page .image-caption-box .text-box div > p {
+  line-height: 1;
+}
+
 .single-service-page .image-caption-box .caption-box-img,
 .single-post-page .image-caption-box .caption-box-img {
   width: 248px;

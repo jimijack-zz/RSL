@@ -4,7 +4,7 @@
     $from = $_REQUEST['email'];
     $name = $_REQUEST['name'];
     $headers = "From: $from";
-    $subject = "You have a message from your OnePro.";
+    $subject = "You have a message from your RSL™ ISL website contact form.";
 
     $fields = array();
     $fields{"name"} = "name";
